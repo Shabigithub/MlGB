@@ -1,4 +1,4 @@
-name: A-Car_everyday
+name: A-汽车_红包
 #天天领钱
 on:
   schedule:
