@@ -2,7 +2,7 @@ name: A-汽车_红包
 #天天领钱
 on:
   schedule:
-    - cron: '0 2,3 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 jobs:
   build:
